@@ -1,0 +1,5 @@
+# Ignore build arifacts
+\x64
+
+#Ignore VS files
+\.vs
